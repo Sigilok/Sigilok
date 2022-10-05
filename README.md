@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sigilok
-- 👀 I’m interested in Kotlin and Android
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Python and Web
+- 🌱 I’m currently learning Python, HTML, CSS..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
