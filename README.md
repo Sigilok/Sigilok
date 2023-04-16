@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sigilok
-- 👀 I’m interested in Python and Web
-- 🌱 I’m currently learning Python, HTML, CSS..
+- 👀 I’m interested in Python, Dart, Web and flutter
+- 🌱 I’m currently learning flutter..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
